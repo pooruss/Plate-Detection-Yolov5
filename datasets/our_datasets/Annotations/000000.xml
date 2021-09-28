@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>VOC2007</folder>
+		<filename>00205459770115-90_85-352&amp;516_448&amp;547-444&amp;547_368&amp;549_364&amp;517_440&amp;515-0_0_22_10_26_29_24-128-7.jpg</filename>
+		<size>
+			<width>720</width>
+			<height>1160</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>plate</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>352</xmin>
+				<ymin>516</ymin>
+				<xmax>448</xmax>
+				<ymax>547</ymax>
+			</bndbox>
+		</object>
+	</annotation>
